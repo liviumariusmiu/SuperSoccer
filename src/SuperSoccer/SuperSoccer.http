@@ -1,0 +1,6 @@
+@SuperSoccer_HostAddress = http://localhost:5074
+
+GET {{SuperSoccer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
